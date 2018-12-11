@@ -1,0 +1,5 @@
+com/javacodegeeks/snippets/enterprise/quartzexample/job/HelloJob.class
+com/javacodegeeks/snippets/enterprise/quartzexample/MyApp.class
+com/javacodegeeks/snippets/enterprise/quartzexample/job/ByeJob.class
+com/javacodegeeks/snippets/enterprise/quartzexample/service/ByeService.class
+com/javacodegeeks/snippets/enterprise/quartzexample/service/HelloService.class
